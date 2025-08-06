@@ -14,4 +14,19 @@ This is a simple yet modern login page built using **HTML** and **CSS**, featuri
   - Facebook
   - Twitter
 
+Technologies Used
+HTML5
+CSS3
+Google Fonts (Poppins)
 
+Future Improvements
+Add real authentication functionality
+Improve form validation
+Responsive enhancements for smaller screens
+Implement OAuth login using Google, Facebook, and Twitter
+
+Social Media Icons Attribution
+Google Logo: Official Google branding
+Facebook Logo: Facebook brand assets
+
+Twitter Logo: Twitter brand assets
